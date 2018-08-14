@@ -7,4 +7,5 @@
 * Linux operating system (it can also run on any platform with C compiler).
 * install gcc compiler
 
-The code is compiler already. You can run the application by running ghostbusters.o file.
+The code is compiled already. You can run the application by running ghostbusters.o file. If you want to recompile it go ahead.
+
